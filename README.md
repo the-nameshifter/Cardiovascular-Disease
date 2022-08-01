@@ -1,2 +1,2 @@
 # Cardiovascular-Disease
- The presence or absence of cardiovascular disease in person based on the given features.
+ We analyse the presence or absence of cardiovascular disease in the person based on the given features.
